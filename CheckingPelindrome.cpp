@@ -1,3 +1,5 @@
+//Checking whether a no is palindrome or not.
+
 #include <iostream>
 using namespace std;
 
