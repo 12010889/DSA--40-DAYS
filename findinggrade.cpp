@@ -1,3 +1,9 @@
+/* QUESTION:-Input--Marks
+if Marks>100 and marks<0 ,exit the programe
+marks>90=>A , 90>=marks>80=>B, 80>=marks >70=>C,70>=marks >30=>D,30>=marks=>F
+*/
+
+
 #include <iostream>
 
 using namespace std;
