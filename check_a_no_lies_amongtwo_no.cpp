@@ -1,3 +1,5 @@
+//Checking a whether the no lies among two no.s
+
 #include <iostream>
 using namespace std;
 
