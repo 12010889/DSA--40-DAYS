@@ -1,3 +1,5 @@
+//Checking whether a no. is prime or not.
+
 #include<iostream>
 #include<math.h>
 
