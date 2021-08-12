@@ -1,4 +1,4 @@
-// Using loop
+// Factorial of a no Using loop
 #include<iostream>
 using namespace std;
 
