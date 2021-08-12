@@ -1,3 +1,5 @@
+//Finding the sum of digit of a no
+
 #include<iostream>
 
 using namespace std;
