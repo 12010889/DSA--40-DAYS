@@ -1,4 +1,4 @@
-//Reversing an Array
+//Reversing an Array using function and Function Prototype
 
 #include<iostream>
 
